@@ -1,2 +1,2 @@
 # hello_world
-just new here
+this Sucks
