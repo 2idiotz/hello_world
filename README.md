@@ -1,2 +1,2 @@
 # hello_world
-this Sucks
+this Funk
